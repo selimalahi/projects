@@ -1,0 +1,54 @@
+.css-class{
+    background-color:pink;
+    color: white;
+    margin:25px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 25px solid yellow;
+    height: 100px;
+    font-size: 15x;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.html-class{
+    background-color: black;
+    color: white;
+    margin: 25px;
+    height: 150px;
+    /* text-align: center; */
+    margin-top: 30px;
+    padding: 20px;
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: 25px dashed red;
+    border-radius: 15px;
+
+}
+.three{
+     background-color: blue;
+     color: black;
+     margin: 25px;
+     height: 350px;
+     width: 50%;
+     padding: 15px 10px;
+     font-size: 20px; 
+     font-family:'Courier New', Courier, monospace;
+     text-align: justify;
+     border: 25px solid green;
+     border-radius: 15px;
+
+}
+.flex-class{
+    display: inline;
+
+}
+.four{
+    
+}
+
+.six form input{ 
+    display: block;
+    margin: 15px;
+    padding: 20px;
+}
