@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Tiro Devanagari Sanskrit', serif;     
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.one-half{
+    width: 50%;
+    padding: 5%;
+}
+
+.one-half img{
+  width: 80%;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+   font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+  background-image: url(../images/top-banner.png);
+  background-repeat: no-repeat;
+}
